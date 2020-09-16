@@ -1,0 +1,7 @@
+- Translations
+  - [:uk: English](https://docsify.js.org/#/)
+  - [:cn: 中文](https://docsify.js.org/#/zh-cn/)
+  - [:de: Deutsch](https://docsify.js.org/#/de-de/)
+  - [:es: Spanish](https://docsify.js.org/#/es/)
+  - [:ru: Russian](https://docsify.js.org/#/ru-ru/)
+  - [:jp: 日本語](https://docsify.js.org/#/ja-jp/)
